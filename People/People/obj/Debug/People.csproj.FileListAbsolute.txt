@@ -1,0 +1,12 @@
+E:\ITMO_ADO_NET\People\People\bin\Debug\People.exe.config
+E:\ITMO_ADO_NET\People\People\bin\Debug\People.exe
+E:\ITMO_ADO_NET\People\People\bin\Debug\People.pdb
+E:\ITMO_ADO_NET\People\People\obj\Debug\People.csprojAssemblyReference.cache
+E:\ITMO_ADO_NET\People\People\obj\Debug\People.Form1.resources
+E:\ITMO_ADO_NET\People\People\obj\Debug\People.Form_connecting_db.resources
+E:\ITMO_ADO_NET\People\People\obj\Debug\People.Properties.Resources.resources
+E:\ITMO_ADO_NET\People\People\obj\Debug\People.csproj.GenerateResource.cache
+E:\ITMO_ADO_NET\People\People\obj\Debug\People.exe
+E:\ITMO_ADO_NET\People\People\obj\Debug\People.pdb
+E:\ITMO_ADO_NET\People\People\obj\Debug\People.Form_add_man.resources
+E:\ITMO_ADO_NET\People\People\obj\Debug\People.Form_add_woman.resources
